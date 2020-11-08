@@ -1,0 +1,13 @@
+#items.ytd-grid-renderer > ytd-grid-video-renderer.ytd-grid-renderer {
+  width: 100%;
+}
+
+#details.ytd-grid-video-renderer {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 5px;
+}
+
+#items.ytd-grid-renderer ytd-thumbnail {
+  display: inline-block;
+}
