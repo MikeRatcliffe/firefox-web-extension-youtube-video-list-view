@@ -1,9 +1,12 @@
 {
   "manifest_version": 2,
-
   "name": "YouTube Video List View",
   "version": "0.1.0",
   "description": "Changes YouTube video list from grid view to list view",
+  "developer": {
+    "name": "Mike Ratcliffe",
+    "url": "https://github.com/MikeRatcliffe/firefox-web-extension-youtube-video-list-view"
+  },
   "icons": {
     "48": "icon.svg",
     "96": "icon.svg"
